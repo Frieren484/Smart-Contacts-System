@@ -1,21 +1,40 @@
-# Smart-Contacts System
-![Architecture](flowchart.png)
+[ Отчет по практике (Word)](123.docx)
+Одно из самых известных - "Инвентаризация" Гюнтера Айха.
 
-Профессиональная система управления контактами на C++, оптимизированная для Visual Studio 2022.
+Günter Eich 
+Inventur 
 
-## 🚀 Особенности
-- **Полная поддержка UTF-8**: Корректное отображение кириллицы в консоли Windows.
-- **Безопасность**: Валидация телефонов, email и дат.
-- **Аналитика**: Экспорт в CSV и фильтрация по категориям.
-- **Удобство**: Поиск по нескольким ключевым словам и умная сортировка.
+Dies ist meine Mütze, 
+dies ist mein Mantel 
+hier mein Rasierzeug 
+im Beutel aus Leinen. 
 
-## 📖 Документация
-- [📄 Отчет по практике (Word)](123.docx)
-- [🛠 Инструкция (Walkthrough)](walkthrough.md)
+Konservenbüchse: 
+Mein Teller, mein Becher, 
+ich hab in das Weißblech 
+den Namen geritzt. 
 
-## 🛠 Требования
-- Visual Studio 2022 
-- Windows OS
+Geritzt hier mit diesem 
+kostbaren Nagel, 
+den vor begehrlichen 
+Augen ich berge. 
 
----
-*Проект выполнен студентом Кривошеевым К.Д., 2026.*
+Im Brotbeutel sind 
+ein Paar wollene Socken 
+und einiges, was ich 
+niemand verrate, 
+
+so dient er als Kissen 
+nachts meinem Kopf. 
+Die Pappe hier liegt 
+zwischen mir und der Erde. 
+
+Die Bleichstiftmine 
+lieb ich am meisten: 
+Tags schreibt sie mir Verse, 
+die nachts ich erdacht. 
+
+Dies ist mein Notizbuch, 
+dies meine Zeltbahn, 
+dies ist mein Handtuch, 
+dies ist mein Zwirn.
