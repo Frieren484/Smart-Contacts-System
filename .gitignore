@@ -1,0 +1,18 @@
+# Binaries
+*.exe
+*.o
+*.obj
+
+# Database
+database.txt
+contacts.csv
+
+# Logs & Temp
+build_errors.txt
+build_log.txt
+gen_report.py
+flowchart_*.png
+test.cpp
+
+# VS Code
+.vscode/
